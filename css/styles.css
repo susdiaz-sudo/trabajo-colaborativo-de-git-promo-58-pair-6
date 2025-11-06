@@ -5,6 +5,8 @@
   width: 100px;
 }
 .face {
+  display: flex;
+  justify-content: center;
   font-family: "courier new", serif;
   font-size: 2.5em;
   font-weight: bold;
